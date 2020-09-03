@@ -22,4 +22,8 @@ eureka:
     fetchRegistry: true
     service-url:
       defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka
-
+  instance:
+    instance-id: payment8001
+    prefer-ip-address: true #显示访问路径IP地址
+#    lease-renewal-interval-in-seconds: 1 #发送心跳的时间间隔
+#    lease-expiration-duration-in-seconds: 2 #Eureka服务端最后一次受到心跳的等待上线，超时剔除服务
