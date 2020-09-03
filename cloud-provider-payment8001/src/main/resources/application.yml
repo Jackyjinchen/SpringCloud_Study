@@ -21,5 +21,5 @@ eureka:
     #是否从EurekaServer抓取已有注册信息，默认true 集群必须设置为true才能配合ribbon使用负载均衡
     fetchRegistry: true
     service-url:
-      defaultZone: http://localhost:7001/eureka
+      defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka
 
