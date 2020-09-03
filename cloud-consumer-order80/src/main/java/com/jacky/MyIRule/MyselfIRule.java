@@ -20,7 +20,6 @@ public class MyselfIRule {
          * BestAvailableRule 过滤多次访问故障而处于断路器跳闸状态的服务，选择并发量小的
          * AvailabilityFilteringRule 过滤故障实例，选择并发量较小
          * ZoneAvoidanceRule 默认，复合判断server所在区域性能和server的可用性选择服务器
-         *
          */
         return new RandomRule();//定义为随机
     }
