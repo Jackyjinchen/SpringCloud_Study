@@ -6,3 +6,12 @@ eureka:
     register-with-eureka: false
     service-url:
       defaultZone: http://localhost:7001/eureka, http://localhost:7002/eureka
+ribbon:
+  #从服务器读取可用资源所用时间
+  ReadTimeout: 5000
+  #建立连接所用时间
+  ConnectTimeout: 5000
+
+logging:
+  level:
+    com.jacky.springcloud.service.PaymentFeignService80: debug
