@@ -22,10 +22,8 @@ spring:
           uri: lb://cloud-payment-service
           predicates:
             - Path=/payment/lb/**   #断言,路径相匹配的进行路由
-            - Cookie=username,jacky
+#            - Cookie=username,jacky
 #            - After=2020-09-05T01:50:00.000+08:00[Asia/Shanghai] #设置访问时间
-
-
 
 eureka:
   instance:
