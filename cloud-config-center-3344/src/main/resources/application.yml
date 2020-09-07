@@ -12,8 +12,22 @@ spring:
           search-paths:
             - SpringCloud_Study_ConfigCenter
       label: master
+  rabbitmq: #配置rabbitmq相关配置信息
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
 
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka
+
+
+
+#暴露bus刷新配置的端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
