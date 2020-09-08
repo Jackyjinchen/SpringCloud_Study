@@ -68,4 +68,13 @@ public class OrderController {
         //调用相应uri的服务器
         return restTemplate.getForObject(uri+"/payment/lb",String.class);
     }
+
+    @GetMapping("/consumer/payment/zipkin")
+    public String paymentZipkin()
+    {
+        String result = restTemplate.getForObject("http://localhost:8001"+"/payment/zipkin/", String.class);
+        return result;
+    }
+
+
 }

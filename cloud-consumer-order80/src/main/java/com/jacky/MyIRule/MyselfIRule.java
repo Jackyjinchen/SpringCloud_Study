@@ -11,7 +11,7 @@ public class MyselfIRule {
 
     @Bean
     public IRule myRule(){
-        /**
+        /*
          * com.netflix.loadbalancer中方式：
          *      RoundRobingRule 轮训（默认）
          *      RandomRule 随机
