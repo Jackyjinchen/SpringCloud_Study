@@ -1,0 +1,76 @@
+/Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/bin/java  -Xms512m -Xmx512m -Xmn256m -Dnacos.standalone=true -Dnacos.member.list= -Xlog:gc*:file=/Users/jindoc/Downloads/ImportantThing/nacos/logs/nacos_gc.log:time,tags:filecount=10,filesize=102400 -Dloader.path=/Users/jindoc/Downloads/ImportantThing/nacos/plugins/health,/Users/jindoc/Downloads/ImportantThing/nacos/plugins/cmdb -Dnacos.home=/Users/jindoc/Downloads/ImportantThing/nacos -jar /Users/jindoc/Downloads/ImportantThing/nacos/target/nacos-server.jar  --spring.config.location=classpath:/,classpath:/config/,file:./,file:./config/,file:/Users/jindoc/Downloads/ImportantThing/nacos/conf/ --logging.config=/Users/jindoc/Downloads/ImportantThing/nacos/conf/nacos-logback.xml --server.max-http-header-size=524288
+2020-09-12 00:58:00,335 WARN [ThreadPoolManager] Destruction of the end
+
+
+         ,--.
+       ,--.'|
+   ,--,:  : |                                           Nacos 1.3.1
+,`--.'`|  ' :                       ,---.               Running in stand alone mode, All function modules
+|   :  :  | |                      '   ,'\   .--.--.    Port: 8848
+:   |   \ | :  ,--.--.     ,---.  /   /   | /  /    '   Pid: 21204
+|   : '  '; | /       \   /     \.   ; ,. :|  :  /`./   Console: http://192.168.11.194:8848/nacos/index.html
+'   ' ;.    ;.--.  .-. | /    / ''   | |: :|  :  ;_
+|   | | \   | \__\/: . ..    ' / '   | .; : \  \    `.      https://nacos.io
+'   : |  ; .' ," .--.; |'   ; :__|   :    |  `----.   \
+|   | '`--'  /  /  ,.  |'   | '.'|\   \  /  /  /`--'  /
+'   : |     ;  :   .'   \   :    : `----'  '--'.     /
+;   |.'     |  ,     .-./\   \  /            `--'---'
+'---'        `--`---'     `----'
+
+2020-09-12 00:58:05,686 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$29521a04] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-09-12 00:58:05,818 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-09-12 00:58:05,824 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@7fd4acee' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-09-12 00:58:05,832 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$4e26bcb6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-09-12 00:58:05,843 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-09-12 00:58:06,465 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-09-12 00:58:06,650 INFO Root WebApplicationContext: initialization completed in 4079 ms
+
+2020-09-12 00:58:15,705 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-09-12 00:58:15,991 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-09-12 00:58:16,576 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2020-09-12 00:58:16,625 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@b0a1231, org.springframework.security.web.context.SecurityContextPersistenceFilter@5b7aa898, org.springframework.security.web.header.HeaderWriterFilter@316acbb5, org.springframework.security.web.csrf.CsrfFilter@4e83a98, org.springframework.security.web.authentication.logout.LogoutFilter@2676dc05, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7c0777b5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4e642ee1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4833eff3, org.springframework.security.web.session.SessionManagementFilter@3e906375, org.springframework.security.web.access.ExceptionTranslationFilter@53a84ff4]
+
+2020-09-12 00:58:16,764 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-09-12 00:58:16,804 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-09-12 00:58:16,995 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-09-12 00:58:17,003 INFO Nacos Log files: /Users/jindoc/Downloads/ImportantThing/nacos/logs
+
+2020-09-12 00:58:17,006 INFO Nacos Log files: /Users/jindoc/Downloads/ImportantThing/nacos/conf
+
+2020-09-12 00:58:17,007 INFO Nacos Log files: /Users/jindoc/Downloads/ImportantThing/nacos/data
+
+2020-09-12 00:58:17,007 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2020-09-12 00:58:17,138 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-09-12 00:58:17,151 INFO Completed initialization in 13 ms
+
+2020-09-12 01:51:34,953 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2020-09-12 01:51:34,953 WARN [NotifyCenter] Start destroying Publisher
+
+2020-09-12 01:51:34,954 WARN [NotifyCenter] Destruction of the end
+
+2020-09-12 01:51:34,956 INFO Shutting down ExecutorService 'taskScheduler'
+
+2020-09-12 01:51:34,957 INFO Shutting down ExecutorService 'applicationTaskExecutor'
+
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.catalina.loader.WebappClassLoaderBase (jar:file:/Users/jindoc/Downloads/ImportantThing/nacos/target/nacos-server.jar!/BOOT-INF/lib/tomcat-embed-core-9.0.13.jar!/) to field java.io.ObjectStreamClass$Caches.localDescs
+WARNING: Please consider reporting this to the maintainers of org.apache.catalina.loader.WebappClassLoaderBase
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2020-09-12 01:51:56,221 WARN [ThreadPoolManager] Destruction of the end
+

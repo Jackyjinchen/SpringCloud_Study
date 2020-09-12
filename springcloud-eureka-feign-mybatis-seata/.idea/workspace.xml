@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nutzboot-dubbo-fescar" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:springboot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nutzboot-dubbo-fescar" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:springboot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12616109-8e9e-43db-a4f0-7cfff81dbf92" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/account-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/DataSourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/DataSourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/io/seata/sample/service/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/storage-server/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hOwFSNoSJplJRddJ5EJC219sTc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="库" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StorageServerApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.sample.AccountServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.sample.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.sample.OrderServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storage-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.seata.sample.StorageServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AccountServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.OrderServerApplication" />
+      <item itemvalue="Spring Boot.StorageServerApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12616109-8e9e-43db-a4f0-7cfff81dbf92" name="默认的" comment="" />
+      <created>1599895343491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599895343491</updated>
+      <workItem from="1599895344740" duration="357000" />
+      <workItem from="1599898653440" duration="5945000" />
+      <workItem from="1599912529486" duration="4412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="31" width="1079" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599913862045">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="361" y="31" width="1079" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1599913862045" />
+    <state x="208" y="23" width="1024" height="828" key="#项目结构" timestamp="1599914728781">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="208" y="23" width="1024" height="828" key="#项目结构/0.23.1440.828@0.23.1440.828" timestamp="1599914728781" />
+    <state width="452" height="160" key="GridCell.Tab.0.bottom" timestamp="1599916136236">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1599916136236" />
+    <state width="452" height="160" key="GridCell.Tab.0.center" timestamp="1599916136234">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1599916136234" />
+    <state width="452" height="160" key="GridCell.Tab.0.left" timestamp="1599916136233">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1599916136233" />
+    <state width="452" height="160" key="GridCell.Tab.0.right" timestamp="1599916136235">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1599916136235" />
+    <state width="452" height="160" key="GridCell.Tab.1.bottom" timestamp="1599916136238">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1599916136238" />
+    <state width="452" height="160" key="GridCell.Tab.1.center" timestamp="1599916136238">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1599916136238" />
+    <state width="452" height="160" key="GridCell.Tab.1.left" timestamp="1599916136237">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1599916136237" />
+    <state width="452" height="160" key="GridCell.Tab.1.right" timestamp="1599916136238">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="452" height="160" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1599916136238" />
+    <state x="289" y="23" width="1024" height="828" key="SettingsEditor" timestamp="1599913960640">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="289" y="23" width="1024" height="828" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1599913960640" />
+  </component>
+</project>
